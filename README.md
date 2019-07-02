@@ -16,8 +16,8 @@ URI formation would look like the following.
 
 ```
 https://blockapi.estavillocj43.now.sh/bitcoin/wallet/create
-<!---[comment]: # (https://blockapi-git-master.cblanquera.now.sh/bitcoin/wallet/create)--->
 ```
+<!---[comment]: # (https://blockapi-git-master.cblanquera.now.sh/bitcoin/wallet/create)--->
 
 ## Disclaimer
 
